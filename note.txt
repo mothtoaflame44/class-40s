@@ -1,0 +1,69 @@
++for loop
+for eachh
+ loop
+ while loop
+do while loop
+today is loop introo
+
+
+for(initialization; range/conndition; increment-decrement){
+  //  statement ;
+    }
+
+
+for(let i=0; i<=8; i++);{
+    console.log("hello world");
+}
+
+2.while loop
+
+initialization
+
+while (range/condition){
+    //statement..
+    increment-decrement
+}
+
+let k = 0;
+
+while (k<=9){
+    console.log('hello world')
+    j++
+}
+
+
+/////// do while
+
+initialization
+
+do{
+    statement
+    increment/decrement
+}
+
+while(condition/range);
+
+
+ex-
+let j = 0;
+
+do {
+    console.log(j+ "hello, from the other side")
+    j-- <if you do this the very structure plunges into a infinite loop>
+}
+
+while(j<=9)
+
+
+foreach loop is used for a loop without that it can not be used for any other statement
+or work.
+
+For Each loop:
+
+   let marks =[78,67, 68, 90, 99];
+
+   marks.forEach ((element)=>{
+    console.log(element);
+   })
+
+
